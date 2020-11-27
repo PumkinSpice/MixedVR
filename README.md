@@ -1,3 +1,3 @@
 # MixedVR
 
-Please see the [Wiki](/wiki) page for guides.
+Please see the [Wiki](wiki) page for guides.
